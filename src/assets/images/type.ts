@@ -37,6 +37,8 @@ export type ImageAssets = Readonly<
     | 'supportSelectButton'
     | 'supportSkillAvailable'
     | 'tapButton'
+    | 'teamContinueButton'
+    | 'teamReadyButton'
     | 'transformGaugeFull'
     | 'x0',
     Image
